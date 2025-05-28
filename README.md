@@ -18,3 +18,32 @@ Get a basic understanding of what Vue.js is and how it works with a simple examp
 - `createApp()` is used to initialize the app.
 - `data()` is where we declare reactive data.
 
+# 02 - Project Setup with Vue 3 + Vite
+
+## 🎯 Objective
+Set up a Vue 3 project using Vite — a fast, modern build tool.
+
+## 📌 Topics Covered
+- Installing Vite
+- Vue 3 project structure
+- Running the development server
+
+## 🛠 Prerequisites
+- [Node.js](https://nodejs.org/) installed
+- A terminal/command prompt
+
+## 🚀 Steps to Run
+
+### 1. Create Project
+bash
+npm create vite@latest my-vue-app -- --template vue
+
+### 2. Navigate to Project
+cd my-vue-app
+
+### 3. Install Dependencies
+npm install
+
+### 4. Run the Dev Server
+```bash
+npm run dev
