@@ -49,3 +49,25 @@ npm install
 ### 4. Run the Dev Server
 ```bash
 npm run dev
+
+```
+# 03 - Template, Script, and Style in Vue
+
+## 🎯 Objective
+Learn about the structure of a Single File Component (SFC) in Vue, which includes:
+- `<template>`: Handles the HTML layout
+- `<script>`: Handles the logic
+- `<style>`: Handles the styling
+
+## 📌 Topics Covered
+- Using data inside templates with `{{ }}`
+- Declaring component logic in the `<script>` block
+- Scoped styling with `<style scoped>`
+
+## 🚀 How to Run
+1. Make sure you're inside a Vite Vue project (e.g., from `02-project-setup`).
+2. Replace the contents of `App.vue` and create the `HelloWorld.vue` file as shown.
+3. Run the project:
+```bash
+npm run dev
+```
