@@ -35,15 +35,17 @@ Set up a Vue 3 project using Vite — a fast, modern build tool.
 ## 🚀 Steps to Run
 
 ### 1. Create Project
-bash
+```bash
 npm create vite@latest my-vue-app -- --template vue
-
+```
 ### 2. Navigate to Project
+```bash
 cd my-vue-app
-
+```
 ### 3. Install Dependencies
+```bash
 npm install
-
+```
 ### 4. Run the Dev Server
 ```bash
 npm run dev
